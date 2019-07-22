@@ -13,7 +13,6 @@ PyMongo==3.6.0
 six==1.11.0
 Flask-RESTful==0.3.5
 diskcache==3.0.6
-google-api-python-client==1.5.0
 boto3==1.2.3
 botocore==1.10.30
 pandas==0.23.0
