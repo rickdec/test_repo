@@ -195,7 +195,7 @@ pyenchant==2.0.0
 pyexcel==0.5.8
 pyexcel-io==0.5.7
 pyexcel-xls==0.5.7
-Pygments==2.2.0
+Pygments==2.7.4
 PyJWT==1.6.4
 pylibmc==1.5.2
 pymemcache==2.1.0
